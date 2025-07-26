@@ -16,7 +16,6 @@ This repository contains a **2D RPG game** inspired by classic *Final Fantasy* t
 - 💬 **Dialogue system** with typewriter effect
 - 🔁 **Game states**: Title, Play, Pause, Dialogue, Character, Trade, Map, Game Over, End Game
 - 🎵 **Sound and music support**
-- 🧪 **Debug and God mode for development**
 
 ---
 
@@ -42,7 +41,7 @@ This repository contains a **2D RPG game** inspired by classic *Final Fantasy* t
 
 ### ▶️ Running the Game
 
-- Run the `main.GamePanel` class.
+- Run the `main.Main` class.
 - The game window will open — use your **keyboard** to control the player.
 
 ---
@@ -65,12 +64,12 @@ This repository contains a **2D RPG game** inspired by classic *Final Fantasy* t
 
 ```
 src/
+├── ai/             # AI logic for movement and decision-making
 ├── main/           # Game logic, UI, input handling
-├── entity/         # Player, NPC, and character classes
-├── item/           # Items and inventory logic
-├── object/         # World objects (doors, chests, etc.)
-├── tile/           # Tile and map management
-└── sound/          # Sound and music management
+├── character/      # Player, NPCs classes
+├── monster/        # Monsters classes
+├── item/           # Items and world objects
+└── tile/           # Tile and map management
 ```
 
 ---
