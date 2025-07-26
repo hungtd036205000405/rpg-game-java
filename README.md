@@ -2,7 +2,7 @@
 
 ## 🧾 Overview
 
-This repository contains a **2D RPG game** inspired by classic *Final Fantasy* titles, developed in **Java** using **AWT/Swing** for graphics. The project features a **tile-based world**, **interactive NPCs**, **inventory and trading systems**, and a **turn-based combat system**.
+This repository contains a **2D RPG game** developed in **Java** using **AWT/Swing** for graphics. The project features a **tile-based world**, **interactive NPCs**, **inventory and trading systems**, and a **turn-based combat system**.
 
 ---
 
