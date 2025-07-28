@@ -76,14 +76,14 @@ src/
 
 ## 📌 Key Classes
 
-| Class         | Description                                     |
-|---------------|-------------------------------------------------|
-| `GamePanel`   | Main game loop and state management             |
-| `KeyHandler`  | Keyboard input processing                       |
-| `UI`          | Rendering of UI elements and dialogue           |
-| `Player`      | Player entity logic and inventory               |
-| `Item`        | Base class for items and item logic             |
-| `NPC`         | Non-player character logic                      |
+| Class        | Description                           |
+|--------------|---------------------------------------|
+| `GamePanel`  | Main game loop and state management   |
+| `KeyHandler` | Keyboard input processing             |
+| `UI`         | Rendering of UI elements and dialogue |
+| `Player`     | Player entity logic and inventory     |
+| `Item`       | Base class for items and item logic   |
+| `Character`  | Character logic                       |
 
 ---
 
@@ -106,14 +106,13 @@ Please follow standard Java coding conventions and include meaningful documentat
 
 ## 📄 License
 
-This project is intended for **educational purposes**.  
-See the `LICENSE` file for details.
+This project is intended for **educational purposes**.
 
 ---
 
 ## 👤 Credits
 
-Developed by **nt-thuyr**.  
+Developed by **"6 con ong dị ứng phấn hoa"**.  
 Inspired by classic JRPG titles like **Final Fantasy**.
 
 ---
